@@ -179,31 +179,6 @@ class ListaTareas {
             alert("No hay tareas que coincidan con los criterios de filtrado. 🚫");
         }
     }
-
-    mostrarPrioridades() {
-        alert("Funcionalidad de prioridades aún no implementada. 🚧");
-    }
-
-    establecerRecordatorio() {
-        alert("Funcionalidad de recordatorios aún no implementada. 🚧");
-    }
-
-    agregarSubtarea() {
-        alert("Funcionalidad de subtareas aún no implementada. 🚧");
-    }
-
-    exportarImportarDatos() {
-        alert("Funcionalidad de exportar/Importar aún no implementada. 🚧");
-    }
-
-    mostrarEstadisticas() {
-        alert("Funcionalidad de estadísticas aún no implementada. 🚧");
-    }
-
-    mostrarHistorialCambios() {
-        alert("Funcionalidad de historial de cambios aún no implementada. 🚧");
-    }
-
 }
 
 // Comienzo
